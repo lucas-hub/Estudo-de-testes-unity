@@ -1,0 +1,20 @@
+Esse é um arquivo no qual eu escrevo de forma detalhada e técnica o bug encontrando
+a fim de organizar os testes posteriormente e compartilhar com a equipe.
+
+Bug #1
+
+Sumário: A direção do movimento do personagem está invertida
+
+Descrição: Ao mover com as teclas de movimentação 'WASD', o personagem está com o
+movimento invertido. Esse problema afeta todas as direções, atrapalhando a progressão natural do jogo.
+
+Passos para reproduzir: 1- Abra o jogo
+		    2- Carregue a cena principal, composta pelo personagem 'ovelha'
+		    3- Usando as teclas 'WASD', movimente o personagem
+		    4- Note que a direção dos movimentos está invertida	
+
+Resultado obtido: A direção do movimento está invertida
+
+Resultado esperado: A direção do movimento estar de acordo com as setas pressionadas e design de movimentação
+
+Taxa de reprodução: [10/10] - 100%	
