@@ -9,9 +9,9 @@ Descrição: Ao mover com as teclas de movimentação 'WASD', o personagem está
 movimento invertido. Esse problema afeta todas as direções, atrapalhando a progressão natural do jogo.
 
 Passos para reproduzir: 1- Abra o jogo
-		    2- Carregue a cena principal, composta pelo personagem 'ovelha'
-		    3- Usando as teclas 'WASD', movimente o personagem
-		    4- Note que a direção dos movimentos está invertida	
+		        2- Carregue a cena principal, composta pelo personagem 'ovelha'
+		        3- Usando as teclas 'WASD', movimente o personagem
+		    	4- Note que a direção dos movimentos está invertida	
 
 Resultado obtido: A direção do movimento está invertida
 
